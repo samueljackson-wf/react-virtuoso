@@ -8,7 +8,7 @@ slug: /auto-resizing/
 The Virtuoso component automatically handles any changes of the items' heights (due to content resizing, images loading, etc.)
 You don't have to configure anything additional.
 
-Launch the example below in a codesanbox and resize it around.
+Launch the example below in a code sandbox and resize it around.
 
 ```jsx live include-data
 import { Virtuoso } from 'react-virtuoso'
